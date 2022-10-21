@@ -1,21 +1,36 @@
-MIT License
+@@ -1,33 +1,39 @@
+# TCS iON Remote Internship
+TCS iON RIO-45: Digitization of Attendance Management System - Application Development. 45 hours of Internship on Industry Projects on Trending Topics.
+### Project Objective
+```
+The objective of this project is to develop a mobile application for attendance management of students
+```
+### Project Guidelines
+```
+Many schools in india are still capturing sttendance records of students manually.
+- Identify the atendance details that school would like to capture for each student in the class
+- The details could be roll number, name, grade wise, subject wise details for a month
+- You can use Appsheet tool, which is a part of Google Cloud for creating your apps without coding.
+- The sample apps available on Appsheet cloud platform are fully customizable
+- Connect your data to Appsheet to create a mobile app
+- Refine your app to present your required data with different statistics
+```
+### Project Outcome
+```
+1. Student's details that school would like to record as attendance
+2. Mobile application for attendance management
+```
 
-Copyright (c) 2022 Varunreddy08
+### Faculty Feedback
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+<p align="center">
+  <kbd><img src="https://github.com/shubhadeepmandal394/tcs-remote-internship/blob/main/Project%20Report/Faculty%20Feedback.png" width="1000" height="300"></kbd>
+</p>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### Important Links
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Run the app directly in your Browser: [Browser Link](https://www.appsheet.com/start/fba0d88e-f49e-4d6b-b8f1-b5d149cf607d)
+@@ -38,4 +44,4 @@ Many schools in india are still capturing sttendance records of students manuall
+
+<hr>
+
