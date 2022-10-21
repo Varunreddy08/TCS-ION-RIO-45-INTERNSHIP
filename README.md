@@ -24,4 +24,4 @@ Many schools in india are still capturing sttendance records of students manuall
 
 
 - Run the app directly in your Browser: [Browser Link](https://www.appsheet.com/start/fba0d88e-f49e-4d6b-b8f1-b5d149cf607d)
-- Install the app on your Mobile: [Install Link](https://www.appsheet.com/newshortcut/fba0d88e-f49e-4d6b-b8f1-b5d149cf607d)
+
